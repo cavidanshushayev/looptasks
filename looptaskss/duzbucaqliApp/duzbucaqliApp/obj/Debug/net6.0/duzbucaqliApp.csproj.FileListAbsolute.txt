@@ -1,0 +1,15 @@
+C:\Users\ELHaf\Desktop\cs\duzbucaqliApp\duzbucaqliApp\obj\Debug\net6.0\duzbucaqliApp.csproj.AssemblyReference.cache
+C:\Users\ELHaf\Desktop\cs\duzbucaqliApp\duzbucaqliApp\obj\Debug\net6.0\duzbucaqliApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELHaf\Desktop\cs\duzbucaqliApp\duzbucaqliApp\obj\Debug\net6.0\duzbucaqliApp.AssemblyInfoInputs.cache
+C:\Users\ELHaf\Desktop\cs\duzbucaqliApp\duzbucaqliApp\obj\Debug\net6.0\duzbucaqliApp.AssemblyInfo.cs
+C:\Users\ELHaf\Desktop\cs\duzbucaqliApp\duzbucaqliApp\obj\Debug\net6.0\duzbucaqliApp.csproj.CoreCompileInputs.cache
+C:\Users\ELHaf\Desktop\cs\duzbucaqliApp\duzbucaqliApp\bin\Debug\net6.0\duzbucaqliApp.exe
+C:\Users\ELHaf\Desktop\cs\duzbucaqliApp\duzbucaqliApp\bin\Debug\net6.0\duzbucaqliApp.deps.json
+C:\Users\ELHaf\Desktop\cs\duzbucaqliApp\duzbucaqliApp\bin\Debug\net6.0\duzbucaqliApp.runtimeconfig.json
+C:\Users\ELHaf\Desktop\cs\duzbucaqliApp\duzbucaqliApp\bin\Debug\net6.0\duzbucaqliApp.dll
+C:\Users\ELHaf\Desktop\cs\duzbucaqliApp\duzbucaqliApp\bin\Debug\net6.0\duzbucaqliApp.pdb
+C:\Users\ELHaf\Desktop\cs\duzbucaqliApp\duzbucaqliApp\obj\Debug\net6.0\duzbucaqliApp.dll
+C:\Users\ELHaf\Desktop\cs\duzbucaqliApp\duzbucaqliApp\obj\Debug\net6.0\refint\duzbucaqliApp.dll
+C:\Users\ELHaf\Desktop\cs\duzbucaqliApp\duzbucaqliApp\obj\Debug\net6.0\duzbucaqliApp.pdb
+C:\Users\ELHaf\Desktop\cs\duzbucaqliApp\duzbucaqliApp\obj\Debug\net6.0\duzbucaqliApp.genruntimeconfig.cache
+C:\Users\ELHaf\Desktop\cs\duzbucaqliApp\duzbucaqliApp\obj\Debug\net6.0\ref\duzbucaqliApp.dll

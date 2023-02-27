@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "sadeormurekkeb/1.0.0": {
+        "runtime": {
+          "sadeormurekkeb.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sadeormurekkeb/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
