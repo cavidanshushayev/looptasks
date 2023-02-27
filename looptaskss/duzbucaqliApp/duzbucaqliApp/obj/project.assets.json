@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ELHaf\\Desktop\\cs\\duzbucaqliApp\\duzbucaqliApp\\duzbucaqliApp.csproj",
+      "projectUniqueName": "C:\\Users\\ELHaf\\Desktop\\cs\\looptasks\\looptaskss\\duzbucaqliApp\\duzbucaqliApp\\duzbucaqliApp.csproj",
       "projectName": "duzbucaqliApp",
-      "projectPath": "C:\\Users\\ELHaf\\Desktop\\cs\\duzbucaqliApp\\duzbucaqliApp\\duzbucaqliApp.csproj",
+      "projectPath": "C:\\Users\\ELHaf\\Desktop\\cs\\looptasks\\looptaskss\\duzbucaqliApp\\duzbucaqliApp\\duzbucaqliApp.csproj",
       "packagesPath": "C:\\Users\\ELHaf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ELHaf\\Desktop\\cs\\duzbucaqliApp\\duzbucaqliApp\\obj\\",
+      "outputPath": "C:\\Users\\ELHaf\\Desktop\\cs\\looptasks\\looptaskss\\duzbucaqliApp\\duzbucaqliApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
