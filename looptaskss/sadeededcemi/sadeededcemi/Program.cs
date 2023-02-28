@@ -5,7 +5,7 @@
        
             static void Main(string[] args)
             {
-                int eded = 100;
+                int eded = Convert.Toİnt32(console.ReadLine());
                 int say = 0;
                 int cem = 0;
 
